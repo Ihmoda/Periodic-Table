@@ -1,0 +1,129 @@
+*{
+    font-family: arial, sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+
+#wrapper {
+    height: 550px;
+    width: 980px;
+    background: #eeeeee;
+    overflow: hidden;
+    
+}
+
+.numbering {
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    display: inline-block;
+}
+
+.numbering2 {
+    margin-top:20px;
+}
+
+
+.numbering p {
+    color: red;
+    vertical-align: top;
+    border: 1px solid #eeeeee;
+    font-size: 12px;
+
+}
+
+.numbering p{
+    display: inline-block;
+    height: 10px;
+    width: 47px;
+    margin: 10px 2px 0px 0px;
+}
+
+.numbering2 p{
+    display: block;
+    height: 35px;
+    width: 47px;
+    margin: 2px 0px 0px 0px;
+    padding-top: 15px;
+}
+
+.element {
+    font-color: black;
+    display: inline-block;
+    vertical-align: bottom;
+    text-align: center;
+}
+
+.element div {
+    width: 47px;
+    height: 50px;
+    display: block;
+    border: 1px solid black;
+    margin: 2px 0px 0px -2.45px;
+}
+
+
+.blue div {
+    background: #689bff;
+}
+
+.red div {
+    background: #fd9a98;
+}
+
+.yellow div {
+    background: #fecb00;
+}
+
+.green div {
+    background: #1fca21;
+}
+
+#buffer {
+    height: 20px;
+    display: block;
+}
+
+.label {
+    display: inline-block;
+}
+
+
+
+
+.label p{
+    color: red;
+    display: block;
+    height: 35px;
+    width: 47px;
+    font-size: 12px;
+    vertical-align: top;
+    margin: 2px 0px 0px 50px;
+    padding-top: 15px;
+}
+
+.asterisk {
+    display: inline-block;
+}
+
+.asterisk p{
+    color: red;
+    display: block;
+    height: 35px;
+    width: 10px;
+    font-size: 12px;
+    vertical-align: top;
+    margin: 0px 0px 0px 40px;
+    padding-top: 15px;
+}
+
+h1 {
+    font-size: 10px;
+    display: block;
+}
+
+h2 {
+    color: #332599;
+}
+
+
